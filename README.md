@@ -1,10 +1,14 @@
-# CoRL 2026 — Jonathan's plan
+# CoRL 2026 Field Guide (static copy)
 
-Interactive guide to CoRL 2026 (Austin, Nov 9–12, 2026): schedule, poster routes, papers with short summaries, demos, companies and contacts.
+This folder is a static copy of the CoRL 2026 Field Guide artifact. It works on GitHub Pages.
 
-**Open it:** https://jonathm126.github.io/CoRL2026/
+- `index.html`: the page.
+- `media/fig/`: main figures for 654 papers (41 JSON files, 49 MB).
+- `media/vid/`: main video of the 135 picked papers (240 MB).
 
-- Jonathan's plan and priorities are read-only.
-- Your own notes, "seen" marks and contacts are saved only in your browser. Use Notes → "Copy all as Markdown" to keep them.
+Notes and ticks in this copy stay in the browser of each viewer (localStorage). They do not sync with the artifact.
 
-Sources: official CoRL 2026 program and accepted-papers pages (as of Oct 31, 2026), workshop websites, arXiv abstracts. Paper summaries are AI-generated from the abstracts.
+## Update
+1. Copy this folder into the repo `Jonathm126/CoRL2026` (for example, into `docs/`).
+2. Commit and push.
+3. In GitHub: Settings → Pages → Source: branch `main`, folder `/docs`.
