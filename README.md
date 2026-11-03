@@ -26,7 +26,6 @@ This is a personal planning page for attending CoRL 2026. It is not an official 
 | Paper videos | The authors' supplementary material on OpenReview (compressed, lower resolution) |
 | Schedule, sessions, demos, workshops list | [corl.org](https://www.corl.org/) |
 | Workshop descriptions | Each workshop's own website (linked on the page) |
-| Paper scraping and figure/video extraction | Based on a paper browser by [FRIEND NAME](LINK TO FRIEND'S REPO) |
 
 Each paper on the page links to its OpenReview page and PDF.
 
